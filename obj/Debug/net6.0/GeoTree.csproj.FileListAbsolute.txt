@@ -1,0 +1,5 @@
+E:\C#\OOPHomework\GeoTree\obj\Debug\net6.0\GeoTree.csproj.AssemblyReference.cache
+E:\C#\OOPHomework\GeoTree\obj\Debug\net6.0\GeoTree.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\OOPHomework\GeoTree\obj\Debug\net6.0\GeoTree.AssemblyInfoInputs.cache
+E:\C#\OOPHomework\GeoTree\obj\Debug\net6.0\GeoTree.AssemblyInfo.cs
+E:\C#\OOPHomework\GeoTree\obj\Debug\net6.0\GeoTree.csproj.CoreCompileInputs.cache
